@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500&family=Roboto:wght@300;400&display=swap');
+
+div{
+background-color: white;
+width:600px;
+margin:30px auto;
+padding: 32px;
+border-radius: 7px;
+box-shadow: rgba(0, 0, 0, 40%) 0px 0px 11px 2px;
+}
+
+img{
+border-radius: 50%;
+height: 180px;
+}
+
+video{
+border-radius: 5%;
+height: 150px;
+margin-top: 30px;
+text-align: left;
+}
+
+h1, h2, h3, h5, a {
+font-family: 'Roboto', sans-serif;
+}
+
+p{
+font-family: 'Lora', serif;
+text-align: justify;
+margin: 0 auto;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+li {
+font-family: 'Lora', serif;
+text-align: justify;
+margin: 0 auto;
+
+}
+
+body {
+text-align: center;
+background-color: #E1E3E4;
+}
+
+h1{
+color: #974E47;
+margin-top: -5px;
+}
+
+h2{
+color: #974E47;
+margin: left;
+}
+
+h3{
+color: #B26458;
+text-align: left;
+margin-top: 45px;
+}
+
+
+a{
+background-attachment: #6B72E1;
+color: black;
+font-size: 30px;
+margin-top: -15px;
+}
+
+strong {
+color: #B26458;
+}
+
+#btn-blue{
+text-decoration: none;
+font-size: 15px;
+background-color: #974E47;
+color: white;
+padding: 3px;
+border: 2px solid;
+border-color: #974E47;
+border-radius: 7px;
+display: block;
+margin-top:15px;
+width: 145px;
+margin:0 auto;
+font-weight: bold;
+}
+
+#btn-blue:hover{
+background-color: white;
+color: #974E47;
+}
+
+#btn-3d{
+text-decoration: none;
+font-size: 15px;
+background-color: #974E47;
+color: white;
+padding: 3px;
+border: 2px solid;
+border-color: #974E47;
+border-radius: 7px;
+display: block;
+margin-top: -5px;
+width: 365px;
+margin:left;
+font-weight: bold;
+}
+
+#btn-3d:hover{
+background-color: white;
+color: #974E47;
+}
+
+#btn-pegasus{
+text-decoration: none;
+font-size: 15px;
+background-color: #974E47;
+color: white;
+padding: 3px;
+border: 2px solid;
+border-color: #974E47;
+border-radius: 7px;
+display: block;
+margin-top: 15px;
+width: 210px;
+margin:left;
+font-weight: bold;
+}
+
+#btn-pegasus:hover{
+background-color: white;
+color: #974E47;
+}
+
+#btn-levis{
+text-decoration: none;
+font-size: 15px;
+background-color: #974E47;
+color: white;
+padding: 3px;
+border: 2px solid;
+border-color: #974E47;
+border-radius: 7px;
+display: block;
+margin-top: 15px;
+width: 180px;
+margin:left;
+font-weight: bold;
+}
+
+#btn-levis:hover{
+background-color: white;
+color: #974E47;
+}
+.link-black{
+color: rgba (O, O, O, 2%);
+font-size: 40px;
+}
+
+ul{
+list-style: none;
+padding-left: 0px;
+}
+
+.list-inline{
+list-style: none;
+}
+
+.list-inline{
+color: white;
+}
